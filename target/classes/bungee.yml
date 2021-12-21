@@ -1,4 +1,0 @@
-name: AntiHack
-version: '1.0'
-main: me.ikevoodoo.antihack.Main
-description: Attempts to block people from using the Log4Shell vulnerability
